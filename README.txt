@@ -39,4 +39,3 @@ An interactive Power BI dashboard built using a dataset of 250,000 job records t
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
